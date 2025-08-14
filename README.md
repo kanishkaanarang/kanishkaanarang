@@ -4,7 +4,7 @@
 ---
 
 ### Projects
-[![GitHub](https://img.shields.io/badge/My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanishkaanarang?tab=repositories)
+[![Linktree](https://img.shields.io/badge/My%20Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kanishkaanarang)
 
 ---
 
