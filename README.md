@@ -4,7 +4,7 @@
 ---
 
 ### Projects
-[![Linktree](https://img.shields.io/badge/My%20Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kanishkaanarang)
+[![Linktree](https://img.shields.io/badge/My%20Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/kanishkaanarang)
 
 ---
 
