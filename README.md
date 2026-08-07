@@ -38,65 +38,29 @@ Build impactful AI-powered products that combine Machine Learning, Backend Engin
 
 # 🚀 Featured Projects
 
-## 🤖 Positive Face Robot
+### 🤖 Positive Face Robot
+Real-time facial recognition system for autonomous robotic interaction.
 
-Production-ready facial recognition system built for robotic interaction.
-
-**Highlights**
-
-- Real-time face recognition using InsightFace
-- Autonomous employee recognition
-- Dynamic greeting engine
-- Speech queue management
-- Automatic Windows startup
-- Camera recovery & fault tolerance
-- Modular production architecture
-
-**Tech**
-
-Python • OpenCV • InsightFace • ONNX Runtime • NumPy
+**Tech:** Python • OpenCV • InsightFace • ONNX Runtime
 
 ---
 
-## 🧠 CivicIQ
+### 🧠 CivicIQ
+AI-powered decision intelligence platform that transforms citizen reports into actionable insights.
 
-AI-powered Decision Intelligence Platform.
-
-Transforms citizen reports into structured actionable insights using AI.
-
-**Highlights**
-
-- AI-powered report analysis
-- FastAPI backend
-- React frontend
-- Geospatial intelligence
-- Structured decision generation
-
-**Tech**
-
-FastAPI • React • TypeScript • Gemini AI • Python
+**Tech:** FastAPI • React • TypeScript • Gemini AI
 
 ---
 
-## 📰 Fake News Detection
+### 📰 Fake News Detection
+Machine learning system for detecting misinformation using NLP and classification models.
 
-Machine Learning based misinformation detection system.
-
-**Highlights**
-
-- NLP preprocessing
-- TF-IDF
-- ML classification
-- Real-world news datasets
+**Tech:** Python • Scikit-learn • NLP • TF-IDF
 
 ---
 
-## 🌍 Geospatial AI
-
-Working with satellite imagery and remote sensing data during internship projects.
-
----
-
+### 🌍 Geospatial AI
+Working with satellite imagery, computer vision, and remote sensing applications during my internship at NRSC (ISRO).
 # 🛠 Tech Stack
 
 ## Languages
