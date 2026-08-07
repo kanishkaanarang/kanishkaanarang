@@ -125,18 +125,6 @@ Working with satellite imagery, computer vision, and remote sensing applications
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kanishkaanarang&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkaanarang&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📫 Let's Connect
 
 📧 **Email**
