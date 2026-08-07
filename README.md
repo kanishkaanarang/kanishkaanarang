@@ -1,17 +1,198 @@
-# 💫 About Me:
-🔭 I’m currently working on: Building ML-powered projects and backend systems (Python, FastAPI)<br><br>🤝 I’m looking to collaborate on: Open-source AI/ML or backend projects<br><br>🧠 I’m looking for help with: Scaling ML models and system design<br><br>🌱 I’m currently learning: Advanced DSA, System Design, and Deep Learning<br><br>💬 Ask me about: Python, Machine Learning, APIs, and GitHub projects<br><br>⚡ Fun fact: I enjoy turning ideas into real working products
+<h1 align="center">Hi 👋, I'm Kanishka Narang</h1>
 
+<h3 align="center">
+Building AI Systems • Computer Vision • Backend Engineering • AI Products
+</h3>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/_crystalover) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kanishkanarang_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishka-narang-a99a1132b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@KanishkaaNarang)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanishkaanarang@gmail.com) 
+<p align="center">
+I love building intelligent systems that solve real-world problems.
+Currently exploring the intersection of Artificial Intelligence, Product Thinking and Scalable Software Engineering.
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kanishkaanarang&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=kanishkaanarang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kanishkaanarang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 👩‍💻 About Me
 
+🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)  
+Maharaja Agrasen Institute of Technology (MAIT), Delhi
+
+🤖 AI Development Intern @ **National Remote Sensing Centre (ISRO)**
+
+💼 Product Management Intern @ **Directorate General of Foreign Trade (DGFT)**
+
+🏆 1st Prize Winner — Research Quest 2025
+
+🌱 Currently learning
+
+- Advanced Computer Vision
+- AI System Design
+- Distributed AI Systems
+- Product Strategy
+- Large Language Models
+
+🎯 Career Goal
+
+Build impactful AI-powered products that combine Machine Learning, Backend Engineering and Product Thinking.
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Positive Face Robot
+
+Production-ready facial recognition system built for robotic interaction.
+
+**Highlights**
+
+- Real-time face recognition using InsightFace
+- Autonomous employee recognition
+- Dynamic greeting engine
+- Speech queue management
+- Automatic Windows startup
+- Camera recovery & fault tolerance
+- Modular production architecture
+
+**Tech**
+
+Python • OpenCV • InsightFace • ONNX Runtime • NumPy
+
+---
+
+## 🧠 CivicIQ
+
+AI-powered Decision Intelligence Platform.
+
+Transforms citizen reports into structured actionable insights using AI.
+
+**Highlights**
+
+- AI-powered report analysis
+- FastAPI backend
+- React frontend
+- Geospatial intelligence
+- Structured decision generation
+
+**Tech**
+
+FastAPI • React • TypeScript • Gemini AI • Python
+
+---
+
+## 📰 Fake News Detection
+
+Machine Learning based misinformation detection system.
+
+**Highlights**
+
+- NLP preprocessing
+- TF-IDF
+- ML classification
+- Real-world news datasets
+
+---
+
+## 🌍 Geospatial AI
+
+Working with satellite imagery and remote sensing data during internship projects.
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+
+---
+
+## AI / Machine Learning
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## Database & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+# 🏅 Achievements
+
+🥇 Research Quest 2025 — First Prize
+
+🤖 AI Development Intern — National Remote Sensing Centre (ISRO)
+
+💼 Product Management Intern — Directorate General of Foreign Trade (DGFT)
+
+🌍 Contributor — GirlScript Summer of Code
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kanishkaanarang&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkaanarang&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email**
+
+kanishkaanarang@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/kanishka-narang-a9941132b
+
+🌐 **GitHub**
+
+https://github.com/kanishkaanarang
+
+---
+
+<p align="center">
+
+<i>
+"Building AI is exciting.
+Building AI that people actually use is even better."
+</i>
+
+</p>
