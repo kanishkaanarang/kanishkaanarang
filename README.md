@@ -18,23 +18,8 @@ Maharaja Agrasen Institute of Technology (MAIT), Delhi
 
 🤖 AI Development Intern @ **National Remote Sensing Centre (ISRO)**
 
-💼 Product Management Intern @ **Directorate General of Foreign Trade (DGFT)**
 
-🏆 1st Prize Winner — Research Quest 2025
 
-🌱 Currently learning
-
-- Advanced Computer Vision
-- AI System Design
-- Distributed AI Systems
-- Product Strategy
-- Large Language Models
-
-🎯 Career Goal
-
-Build impactful AI-powered products that combine Machine Learning, Backend Engineering and Product Thinking.
-
----
 
 # 🚀 Featured Projects
 
