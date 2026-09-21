@@ -111,19 +111,6 @@ Working with satellite imagery, computer vision, and remote sensing applications
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-# 🏅 Achievements
-
-🥇 Research Quest 2025 — First Prize
-
-🤖 AI Development Intern — National Remote Sensing Centre (ISRO)
-
-💼 Product Management Intern — Directorate General of Foreign Trade (DGFT)
-
-🌍 Contributor — GirlScript Summer of Code
-
----
 
 # 📫 Let's Connect
 
@@ -135,17 +122,6 @@ kanishkaanarang@gmail.com
 
 https://linkedin.com/in/kanishka-narang-a9941132b
 
-🌐 **GitHub**
-
-https://github.com/kanishkaanarang
 
 ---
 
-<p align="center">
-
-<i>
-"Building AI is exciting.
-Building AI that people actually use is even better."
-</i>
-
-</p>
