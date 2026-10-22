@@ -1,55 +1,117 @@
-# Kanishka Narang
+<h1 align="center">Hi 👋, I'm Kanishka Narang</h1>
 
-**ML Research · Geospatial & Earth Observation ML · ML Systems & Deployment**
+<h3 align="center">
+Building AI Systems • Computer Vision • Backend Engineering • AI Products
+</h3>
 
-B.Tech CSE (AI/ML), Maharaja Agrasen Institute of Technology, New Delhi · CGPA 9.50/10
-
----
-
-## Research & Featured Work
-
-### [OceanEmbed](https://github.com/kanishkaanarang/oceanembed): Deep Learning for Subsurface Ocean Reconstruction
-Reconstructs subsurface ocean temperature and salinity at 15 depths by fusing 6 satellite and reanalysis sources (Argo, Copernicus Marine, GLORYS12V1, NASA OSCAR/CCMP, INCOIS, EN4).
-
-- Trained on 71,380 quality-controlled profiles
-- **0.271 °C / 0.103 PSU RMSE**, 3.7x lower error than baseline
-- SHAP-based explainability, FastAPI/Streamlit dashboard, 82 automated tests passing
-
-`PyTorch · XGBoost · xarray · SHAP · FastAPI`
-
-### ISRO NRSC: Research Intern, Machine Learning (Jul–Sep 2026)
-- **KRITHI robot:** real-time face recognition on an Intel NUC (Python, OpenCV) with similarity-score matching and priority-ordered greetings
-- **AutoGeo:** extended NRSC's natural-language assistant over Google Earth Engine (LangChain), updating data currency from 2022 to 2026 and adding year-by-year map playback and graph-based analysis
-
-### [Fake News Detection](https://huggingface.co/spaces/kanishkaanarang/fake-news-detection-app)
-TF-IDF + Logistic Regression classifier, about 90% test accuracy, live demo on Hugging Face Spaces.
-
-### Handwritten OCR Pipeline
-CNN feature extractor + BiLSTM sequence decoder in TensorFlow.
+<p align="center">
+I love building intelligent systems that solve real-world problems.
+Currently exploring the intersection of Artificial Intelligence, Product Thinking and Scalable Software Engineering.
+</p>
 
 ---
 
-## Experience
+## 👩‍💻 About Me
 
-| Role | Organisation | When |
-|---|---|---|
-| Research Intern, ML | ISRO, NRSC | Jul–Sep 2026 |
-| Product Management Intern | Drishti Global | Jun–Jul 2026 |
-| Frontend Developer Intern | Tendr | Aug–Oct 2025 |
+🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)  
+Maharaja Agrasen Institute of Technology (MAIT), Delhi
 
-## Recognition
-Winner, Research Quest (Research Nexus MAIT) · Runner-Up, Pitch-a-Thon (DTU) · Special Mention, 0 to 1 Hackathon (IIIT Delhi)
+🤖 AI Development Intern @ **National Remote Sensing Centre (ISRO)**
 
----
 
-## Tech Stack
-**Languages:** Python, C++
-**ML/DL:** PyTorch, Keras, Scikit-learn, XGBoost, Hugging Face, SHAP, LIME
-**Vision:** OpenCV, real-time video processing
-**Geospatial/Data:** Google Earth Engine, xarray, Dask, Pandas, NumPy, Copernicus Marine API
-**Deployment:** FastAPI, Streamlit, REST APIs, Git/GitHub
+
+
+# 🚀 Featured Projects
+
+### 🤖 Positive Face Robot
+Real-time facial recognition system for autonomous robotic interaction.
+
+**Tech:** Python • OpenCV • InsightFace • ONNX Runtime
 
 ---
 
-## Contact
-[Email](mailto:kanishkaanarang@gmail.com) · [LinkedIn](https://linkedin.com/in/kanishkaa-narang) · [LeetCode](https://leetcode.com/u/kanishkaa_narang)
+### 🧠 CivicIQ
+AI-powered decision intelligence platform that transforms citizen reports into actionable insights.
+
+**Tech:** FastAPI • React • TypeScript • Gemini AI
+
+---
+
+### 📰 Fake News Detection
+Machine learning system for detecting misinformation using NLP and classification models.
+
+**Tech:** Python • Scikit-learn • NLP • TF-IDF
+
+---
+
+### 🌍 Geospatial AI
+Working with satellite imagery, computer vision, and remote sensing applications during my internship at NRSC (ISRO).
+# 🛠 Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+
+---
+
+## AI / Machine Learning
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## Database & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+# 📫 Let's Connect
+
+📧 **Email**
+
+kanishkaanarang@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/kanishka-narang-a9941132b
+
+
+---
+
+
+
+i don't like this, keep it concise, related to research 
+update through my resume
+and keep it like the interviewer likes my stability, funvtinality, work and organisation
